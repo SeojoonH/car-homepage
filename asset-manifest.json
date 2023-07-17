@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/car-homepage/static/css/main.50d40702.css",
-    "main.js": "/github.io/car-homepage/static/js/main.0e88b0e9.js",
-    "index.html": "/github.io/car-homepage/index.html",
-    "main.50d40702.css.map": "/github.io/car-homepage/static/css/main.50d40702.css.map",
-    "main.0e88b0e9.js.map": "/github.io/car-homepage/static/js/main.0e88b0e9.js.map"
+    "main.css": "./static/css/main.50d40702.css",
+    "main.js": "./static/js/main.0e88b0e9.js",
+    "index.html": "./index.html",
+    "main.50d40702.css.map": "./static/css/main.50d40702.css.map",
+    "main.0e88b0e9.js.map": "./static/js/main.0e88b0e9.js.map"
   },
   "entrypoints": [
     "static/css/main.50d40702.css",
